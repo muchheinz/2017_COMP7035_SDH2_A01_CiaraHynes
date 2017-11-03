@@ -1,6 +1,5 @@
 package Hint3;
 
-
 /**
 * This class models the concept (a type of objects) of a single linked node<br>. 
 */
